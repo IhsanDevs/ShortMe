@@ -3,6 +3,9 @@
 
 _Discover the future of URL shortening with our dynamic subdomain-based application! Say goodbye to lengthy web addresses as our innovative solution empowers you to effortlessly transform any URL into a concise and memorable subdomain. Experience the convenience of on-the-fly subdomain generation, making sharing links simpler and more engaging than ever before. Embrace the future of web navigation with our URL shortening app and elevate your online experience._
 
+## Demo
+https://github.com/IhsanDevs/ShortMe/assets/66362682/2389afe2-7674-4927-9e34-d3037907e6db
+
 ## Features
 - [x] Shorten any URL
 - [x] Share links with ease
@@ -54,11 +57,6 @@ _Discover the future of URL shortening with our dynamic subdomain-based applicat
    **For Windows:** You can use [Laragon](https://laragon.org/download/) for like Valet.
 3. Open http://shortme.test in your browser.
 4. Enjoy!
-
-## Demo
-https://github.com/IhsanDevs/ShortMe/assets/66362682/2389afe2-7674-4927-9e34-d3037907e6db
-
-
 
 ## License
 > Copyright 2023 by Ihsan Devs. All rights reserved. 
